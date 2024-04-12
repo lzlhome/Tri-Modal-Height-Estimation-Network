@@ -1,0 +1,4 @@
+D:\PycharmProjects\TMHEN\data\Img\5.tif
+D:\PycharmProjects\TMHEN\data\Img\6.tif
+D:\PycharmProjects\TMHEN\data\Img\7.tif
+D:\PycharmProjects\TMHEN\data\Img\8.tif
